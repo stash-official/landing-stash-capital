@@ -1,0 +1,21 @@
+*::-webkit-scrollbar {
+  width: 5px;
+  height: 8px;
+  background-color: #aaa; 
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #FFF;
+  border-radius: 4px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins','Bebas Neue';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  caret-color: transparent;
+}
